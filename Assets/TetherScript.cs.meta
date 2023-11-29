@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f682908291858464aa897e1afd38fac0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Glowing: {fileID: 21300000, guid: b84009866a8b288488ceb3ef4407b33d, type: 3}
+  - topright: {fileID: 21300000, guid: 5d486366ef47c214faca9ccd9ef921b3, type: 3}
+  - bottomright: {fileID: 21300000, guid: 422b0af1b502d19429f47f20a278fc62, type: 3}
+  - topleft: {fileID: 21300000, guid: 760d7c1e31a16e845907e0b4573ac625, type: 3}
+  - bottomleft: {fileID: 21300000, guid: 69dfcc448944afb49bba6fb4894f6e2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
